@@ -1,6 +1,6 @@
 # Bai_so_03
 
-  | HỌ VÀ TÊN :Vũ Thị Ánh Tuyết |
+## HỌ VÀ TÊN :Vũ Thị Ánh Tuyết 
 ## LỚP :k59.KMT.K01
 
 
